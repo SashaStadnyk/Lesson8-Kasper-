@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+}
+.wrapper {
+  background: repeating-linear-gradient(
+    90deg,
+    #121116,
+    #121116 3%,
+    #29242b 3%,
+    #29242b 8%
+  );
+  height: fit-content;
+  width: 900px;
+}
+.Logo {
+  display: block;
+  margin: 0 400px;
+  padding-top: 150px;
+}
+h1 {
+  color: white;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  font-size: 25px;
+  border-bottom: ridge;
+  width: 250px;
+  margin-left: 331px;
+}
+footer {
+  color: white;
+  text-align: center;
+  margin-top: 150px;
+}
+img {
+  margin-left: 380px;
+}
+.colortext {
+  color: #19c8fa;
+}
