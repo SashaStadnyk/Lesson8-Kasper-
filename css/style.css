@@ -31,9 +31,18 @@ footer {
   text-align: center;
   margin-top: 150px;
 }
-img {
-  margin-left: 380px;
-}
+
 .colortext {
   color: #19c8fa;
+}
+.links {
+  text-align: center;
+}
+.fas {
+  color: white;
+  margin-left: 20px;
+}
+.fab {
+  color: white;
+  margin-left: 20px;
 }
